@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# local env files (never commit the real password)
+.env
+.env*.local
+
+# vercel
+.vercel/

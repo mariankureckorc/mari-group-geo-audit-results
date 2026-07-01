@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "description": "Password gate (Vercel Edge Middleware) in front of the static GEO Audit report.",
+  "dependencies": {
+    "@vercel/edge": "^1.2.1"
+  }
+}
